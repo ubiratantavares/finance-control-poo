@@ -1,7 +1,3 @@
-# Finance Control POO
-
-Segue um conteúdo inicial para o seu **README.md**, já adaptado ao desafio e pronto para ser colocado no GitHub:
-
 # 💰 Finance Control POO
 
 Aplicativo de **controle de transações financeiras** desenvolvido em **Java** utilizando **Programação Orientada a Objetos (POO)**.
